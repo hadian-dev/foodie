@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>
+    <div className='w-screen'>
       <h1>Foodie</h1>
     </div>
   );
